@@ -1,7 +1,5 @@
-# melodai
+# Melodai
 
-
-# AutoSpinLoofi
 
 
 ## Requirements
