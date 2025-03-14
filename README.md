@@ -13,27 +13,27 @@
 
 1. Clone the repository:
 ```
-git clone https://github.com/winktruts/AutoSpinLoofi.git
+git clone https://github.com/winktruts/melodai.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd AutoSpinLoofi
+cd melodai
 ```
 
 3. Install dependencies:
 ```
-npm install axios fs readline
+npm install node-fetch readline fs
 ```
 
-4. Input Bearer Token
+4. Input code Referal
 ```
-nano token.txt
+nano code.txt
 ```
 
 5. Run Program
 ```
-node spinloot.js
+node melodai.js
 ```
 
 ## Configuration
