@@ -1,5 +1,5 @@
 # Melodai
-
+- Register https://web.melodai.pro/index?startapp=d917128a64
 
 
 ## Requirements
